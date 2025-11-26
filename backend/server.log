@@ -85,3 +85,22 @@
 2024-09-03 18:04:25,333 - db_helper - INFO - delete_expenses_for_date called with 2024-08-15
 2024-09-03 18:04:30,552 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-16
 2024-09-03 18:04:34,641 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-15
+2025-11-25 20:02:55,258 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-11-25 20:02:59,601 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-11-25 20:02:59,651 - db_helper - INFO - delete_expenses_for_date called with 2024-08-01
+2025-11-25 20:03:49,650 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-02
+2025-11-25 20:03:56,966 - db_helper - INFO - fetch_expenses_for_date called with 2025-08-05
+2025-11-25 20:03:58,339 - db_helper - INFO - fetch_expenses_for_date called with 2025-08-05
+2025-11-25 20:03:58,385 - db_helper - INFO - delete_expenses_for_date called with 2025-08-05
+2025-11-25 20:14:57,836 - db_helper - INFO - fetch_expenses_for_date called with 2025-08-05
+2025-11-25 20:15:02,644 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-11-25 20:20:28,325 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-11-25 20:20:31,981 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-11-25 20:37:10,392 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-11-25 20:37:25,699 - db_helper - INFO - fetch_expenses_for_date called with 2024-09-03
+2025-11-25 20:38:56,445 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-11-25 20:41:23,293 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-11-25 20:42:30,394 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-11-25 20:42:32,105 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-11-25 20:42:32,144 - db_helper - INFO - delete_expenses_for_date called with 2024-08-01
+2025-11-25 20:42:32,171 - db_helper - INFO - insert_expense called with date: 2024-08-01, amount: 23.0, category: Shopping, notes: tata car

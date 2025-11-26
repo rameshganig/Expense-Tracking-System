@@ -11,7 +11,7 @@ def get_db_cursor(commit=False):
     connection = mysql.connector.connect(
         host="localhost",
         user="root",
-        password="root",
+        password="1OX10ec425",
         database="expense_manager"
     )
 

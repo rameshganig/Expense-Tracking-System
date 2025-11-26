@@ -104,3 +104,11 @@
 2025-11-25 20:42:32,105 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
 2025-11-25 20:42:32,144 - db_helper - INFO - delete_expenses_for_date called with 2024-08-01
 2025-11-25 20:42:32,171 - db_helper - INFO - insert_expense called with date: 2024-08-01, amount: 23.0, category: Shopping, notes: tata car
+2025-11-25 21:04:24,011 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-11-25 21:05:18,418 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-11-25 21:12:27,963 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-11-25 21:12:48,352 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-11-25 21:12:50,178 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-11-25 21:12:50,217 - db_helper - INFO - delete_expenses_for_date called with 2024-08-01
+2025-11-25 21:12:50,239 - db_helper - INFO - insert_expense called with date: 2024-08-01, amount: 23.0, category: Shopping, notes: tata car
+2025-11-25 21:13:07,978 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01

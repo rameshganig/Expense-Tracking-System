@@ -1,7 +1,7 @@
 import mysql.connector
 from contextlib import contextmanager
 from logging_setup import setup_logger
-
+import streamlit as st
 
 logger = setup_logger('db_helper')
 
@@ -9,10 +9,14 @@ logger = setup_logger('db_helper')
 @contextmanager
 def get_db_cursor(commit=False):
     connection = mysql.connector.connect(
-        host="localhost",
-        user="root",
-        password="1OX10ec425",
-        database="expense_manager"
+        # host="localhost",
+        # user="root",
+        # password="1OX10ec425",
+        # database="expense_manager"
+        host = st.secrets["DB_HOST"],
+        user = st.secrets["DB_USER"],
+        password = st.secrets["DB_PASSWORD"],
+        database = st.secrets["DB_NAME"]
     )
 
     cursor = connection.cursor(dictionary=True)
